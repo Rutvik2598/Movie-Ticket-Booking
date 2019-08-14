@@ -1,14 +1,40 @@
 # Movie-Ticket-Booking
 
-Web application for booking movie tickets for latest movies in theatres.
-User has to login to book tickets.If not registered user can sign up.It also shows upcoming movies with its description.
-Login as admin option is provided to add to remove particular show timings, movies. Only admin has access to that.
+## Introduction
+> **User: Customer**
 
-# Technologies Used
+This is a *Movie Ticket Booking Platform (Web Apllication)*. Users will be able to Register, Login and browse though the latest relaeased movies and book tickets. They will also be able to see upcoming movies which are soon to be released.
 
-Developed dynamic movie ticket booking system using JSP's and Servlets.For frontend HTML, CSS, BootStrap, Javascript.
-For backend database used MySql. Connected the database using JDBC connectivity.
+> **User: Admin** 
 
+Admin can login using username and password. He/She can add movie show databases, add shows, delete shows and update shows. Basically all the CRUD operations can be performed by admin.
+
+
+## Important Functionalities in Project
+>  **Register**
+
+Users can register using email-id. The data will be stored in the back-end. Form validation is done using *Java validation package(see code)*. Java database connection *(JDBC)* is done in registration servlet.
+
+>  **Login**
+
+Users can login using registered email-id and password. Validation of credentials are done in *login servlet* where JDBC is done.
+
+>  **Form Validation**
+
+Java validation package has been created which takes care of form validation. Validation of name, email-id and password is done.
+
+>  **Booking**
+
+Every screen has three types of tickets which are Platinum, Gold and Silver. User can choose one or more ticket(s) and according to it the bill will be generated. The booking method has some flaws and we are working on it.
+
+>  **CRUD operations**
+
+Admin can add new show, delete shows and also can update shows in a theatre. 
+## Working towards perfection
+
+![Still working! Give us some time!](https://i.imgur.com/k9GyXLC.gif)
+
+We are working to make this project more perfect and introduce some more features. We will be using firebase to store images and database. Also we are working on some of the security issues. Some of the things in project are not dynamic which is to rectified.
 # User Interface
 
 
