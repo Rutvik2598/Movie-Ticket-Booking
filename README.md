@@ -35,16 +35,65 @@ Admin can add new show, delete shows and also can update shows in a theatre.
 ![Still working! Give us some time!](https://i.imgur.com/k9GyXLC.gif)
 
 We are working to make this project more perfect and introduce some more features. We will be using firebase to store images and database. Also we are working on some of the security issues. Some of the things in project are not dynamic which is to rectified.
-# User Interface
+
+## Interface
+
+> **Login Page**
+
+[<img src="https://firebasestorage.googleapis.com/v0/b/tixflix-18877.appspot.com/o/login.png?alt=media&token=831c4df3-3495-434f-bd1b-362f8cb3e399" alt="Login" />](https://console.firebase.google.com)
+
+> **Register Page**
+
+[<img src="https://firebasestorage.googleapis.com/v0/b/tixflix-18877.appspot.com/o/register.png?alt=media&token=1ddced00-830a-44c0-a901-3380bca23e7b" alt="Register" />](https://console.firebase.google.com)
+
+> **Latest Movies Page**
+
+[<img src="https://firebasestorage.googleapis.com/v0/b/tixflix-18877.appspot.com/o/latestmovies.png?alt=media&token=0b065382-9fa2-4e2a-8b33-a5391ccef3af" alt="Latest Movies" />](https://console.firebase.google.com)
+
+> **Booking Page**
+
+[<img src="https://firebasestorage.googleapis.com/v0/b/tixflix-18877.appspot.com/o/booking.png?alt=media&token=6c69a3fe-9120-45eb-9344-16573c1f3bba" alt="Booking" />](https://console.firebase.google.com)
 
 
-![Screenshot (1)](https://user-images.githubusercontent.com/44207349/62923982-b807ae80-bdcc-11e9-8bd2-63d412d2ba5c.png)
-![Screenshot (2)](https://user-images.githubusercontent.com/44207349/62923992-c229ad00-bdcc-11e9-85f9-cc0c59f762b3.png)
-![Screenshot (3)](https://user-images.githubusercontent.com/44207349/62924002-c81f8e00-bdcc-11e9-80b3-18ff7673bd0b.png)
-![Screenshot (10)](https://user-images.githubusercontent.com/44207349/62924020-d372b980-bdcc-11e9-8bd9-58e367675c61.png)
-![Screenshot (14)](https://user-images.githubusercontent.com/44207349/62924041-de2d4e80-bdcc-11e9-8388-6a54ba7696d2.png)
-![Screenshot (15)](https://user-images.githubusercontent.com/44207349/62924045-dff71200-bdcc-11e9-8817-4dee66aa71b5.png)
-![Screenshot (4)](https://user-images.githubusercontent.com/44207349/62924070-f1401e80-bdcc-11e9-80ca-9f062bc09fa7.png)
-![Screenshot (12)](https://user-images.githubusercontent.com/44207349/62924074-f309e200-bdcc-11e9-956d-d7070017a8ec.png)
+## Technologies used for Backend
+> **Java**
+
+[<img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="HTML" width="100px;" />](https://worldvectorlogo.com/logo/java-4)
+
+Java-Servlet is the middle agent between databases and frontend.
+
+> **MySql**
+
+[<img src="https://cdn.worldvectorlogo.com/logos/mysql.svg" alt="MySql" width="100px;" />](https://worldvectorlogo.com/logo/mysql)
+
+MySql is used as database.
+
+> **Firebase**
+
+[<img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="Firebase" width="100px;" />](https://worldvectorlogo.com/logo/firebase-1)
+
+Firebase is not extensively used. But as mentioned earlier we are going to use firebase to make project even more perfect and dynamic.
+
+## Technologies used for Frontend
+> **HTML**
+
+[<img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML" width="100px;" />](https://worldvectorlogo.com/logo/html5)
+
+> **CSS**
+
+[<img src="https://cdn.worldvectorlogo.com/logos/css-5.svg" alt="CSS" width="100px;" />](https://worldvectorlogo.com/logo/css-5)
+
+> **JavaScript**
+
+[<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JS" width="100px;" />](https://worldvectorlogo.com/logo/javascript)
+
+
+## Contributors
+
+| Name | Github |
+| ----- | ------ |
+| Sanket Manmode |https://github.com/manmodesanket | 
+| Rajat Marathe | https://github.com/rajatrmarathe |
+| Vishal Mourya | https://github.com/weshall13 |
 
 
